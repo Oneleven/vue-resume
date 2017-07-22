@@ -7,6 +7,7 @@
 <style>
     .preview{
         border: 1px solid black;
+        height:100%;
     }
 </style>
 
